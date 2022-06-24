@@ -7,4 +7,5 @@ I love numbers
 Welcome
 Betty in my first directory 
 Bye bye betty
+Bye bye my first directory
 
